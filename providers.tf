@@ -1,5 +1,5 @@
 provider "google" {
-  project = "valid-alpha-417915"
+  project = "lil-learning-terraform"
   region  = "us-west1"
   zone    = "us-west1-a"
 }
